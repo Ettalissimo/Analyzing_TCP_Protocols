@@ -1,0 +1,18 @@
+NewReno :
+ Sent packets = 20261 
+ Received packets = 13953 
+ Arrival ratio = 68.866295 
+ Packet loss ration = 31.133705
+
+NewVegas :
+ Sent packets = 11780 
+ Received packets = 8461 
+ Arrival ratio = 71.825127 
+ Packet loss ration = 28.174873
+node 0 , packet recu = 3945 , packet sent = 11780 , packet forwarded = 0
+node 1 , packet recu = 6800 , packet sent = 20261 , packet forwarded = 0
+node 2 , packet recu = 21108 , packet sent = 10554 , packet forwarded = 10554
+node 3 , packet recu = 21108 , packet sent = 10554 , packet forwarded = 10554
+node 4 , packet recu = 21108 , packet sent = 10553 , packet forwarded = 10554
+node 5 , packet recu = 9136 , packet sent = 671 , packet forwarded = 675
+node 6 , packet recu = 14594 , packet sent = 641 , packet forwarded = 641
